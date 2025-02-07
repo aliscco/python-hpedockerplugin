@@ -3,3 +3,4 @@ testtools
 mock==2.0.0
 ratelimit==2.2.1
 backoff==1.8.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
